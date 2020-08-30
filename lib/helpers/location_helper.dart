@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = 'AIzaSyARWUr38Fun7-FkKBIIalc7ugfNV9WfZAc';
+import 'package:great_places/key/key.properties';
 
 class LocationHelper {
   static String generateLocationPreviewImage(
